@@ -39,3 +39,12 @@
 * Сборщики
 * css-in-js
 * Методологии
+
+### Позиционирование
+
+Сюда можно отнести вопросы по выравниванию блоков (например, "как выровнять блок по центру?").
+
+## Полезные материалы и статьи
+
+* [Flexbox Froggy](https://flexboxfroggy.com/) и [Grid Garden](https://codepip.com/games/grid-garden/)
+* [Deep dive CSS: font metrics, line-height and vertical-align - Vincent De Oliveira](http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
